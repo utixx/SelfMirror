@@ -2,7 +2,6 @@ import torch
 from torch import nn
 from torch.autograd import Variable
 from torch.utils.data import DataLoader
-from monai.networks.nets import UNet
 from data_process import trainset, test_preprocess_chooseOne, testset, multibatch_test_save, singlebatch_test_save
 
 import numpy as np
@@ -41,7 +40,7 @@ def patch_prepare_for_training(args):
 
         im_dir = args.datasets_path + '//' + im_name
         noise_im = tif.imread(im_dir)
-        # if noise_im.shape[0] > args.select_img_num:  # t序列最大数, 超过就截断
+        # if noise_im.shape[0] > args.select_img_num:  # 
         #     noise_im = noise_im[0:args.select_img_num, :, :]
 
         whole_x = noise_im.shape[2]
@@ -50,10 +49,10 @@ def patch_prepare_for_training(args):
 
         print('---Noise image shape -----> ', noise_im.shape)
         # Calculate real args.gap_z
-        # 明白了,相当于计算z或者t轴的步长, 来满足我有多少个patches, args.train_datasets_size参数
+        # patches, args.train_datasets_size参数
         w_num = math.floor((whole_x - args.patch_x) / args.gap_x) + 1
         h_num = math.floor((whole_y - args.patch_y) / args.gap_y) + 1
-        s_num = math.ceil(args.train_datasets_size / w_num / h_num / stack_num)  # stack_num是有多少个三维图像
+        s_num = math.ceil(args.train_datasets_size / w_num / h_num / stack_num)  # 
         # print(s_num)
         args.gap_z = math.floor((whole_z - args.patch_z * 2) / (s_num - 1))
         print('---real gap_z--->', args.gap_z)
@@ -121,7 +120,7 @@ def train(args, model):
 
     for epoch in range(0, args.epoch_num):
         model.train()
-        # load dataset very epoch ? why   好像是因为用了distribute gpu  详见:https://zhuanlan.zhihu.com/p/552476081
+        # 
         train_data = trainset(args.name_list, args.coordinate_list, args.noise_im_all, args.stack_index)
         # print(len(train_data))
         trainloader = DataLoader(train_data, batch_size=args.batch_size, shuffle=True, num_workers=args.num_workers)

@@ -1,2 +1,2 @@
-# N2Slice
+# SelfMirror
 

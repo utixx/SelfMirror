@@ -124,7 +124,7 @@ see code comments for all the details
 
 ##  Models
 
-We  have provided 7 generalized pre-trained models for specific tasks and hope this will be helpful to the community.
+We have provided 7 generalized pre-trained models for specific tasks and stored them in the ```SelfMirror/pth``` path.
 
 | No. | Data                                            | Microscopy system | 
 |:---:|-------------------------------------------------|:-----------------:| 

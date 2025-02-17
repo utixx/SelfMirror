@@ -34,7 +34,7 @@ This repository is for our developed SelfMirror, and it will be in continued dev
 
 <div align="center">
 
-[**Introduction**](#-Introduction) **|**[**Installation**](#-Installation) **|** [**Dataset**](#-Dataset) **|**[**Training**](#-Training) **|**[**Inference**](#-Inference) **|**[**Execution**](#-Execution) **|**[**Models**](#-Models) **|**[**Resources**](#-Resources)
+[**Introduction**](#-Introduction) **|**[**Installation**](#-Installation) **|** [**Dataset**](#-Dataset) **|**[**Training**](#-Training) **|**[**Inference**](#-Inference) **|**[**Models**](#-Models)
 
 </div>
 

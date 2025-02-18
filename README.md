@@ -10,7 +10,7 @@
 
 This repository is for our developed SelfMirror, and it will be in continued development.
 
-<img src="imag/mian.tif" width="400" align="center">
+<img src="imag/mian.gif" width="400" align="center">
 <br><br><br>
 
 <div align="center">

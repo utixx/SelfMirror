@@ -18,7 +18,7 @@
 ## Introduction 
 
 <p>
-<img src='./img/main.gif' align="left" width=300>
+<img src='./img/main.gif' align="left" width=400>
 </p>
 <br>
 

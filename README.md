@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[**Introduction**](#Introduction) **|**[**Installation**](#-Installation) **|** [**Dataset**](#-Dataset) **|**[**Training**](#-Training) **|**[**Inference**](#-Inference) **|**[**Models**](#-Models)
+[**Introduction**](#Introduction) **|**[**Installation**](#Installation) **|** [**Dataset**](#Dataset) **|**[**Training**](#Training) **|**[**Inference**](#Inference) **|**[**Models**](#Models)
 
 </div>
 

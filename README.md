@@ -1,23 +1,3 @@
-[//]: # ([![Github commit]&#40;https://img.shields.io/github/last-commit/WeisongZhao/SN2N&#41;]&#40;https://github.com/WeisongZhao/SN2N/&#41;)
-
-[//]: # ([![Github All Releases]&#40;https://img.shields.io/github/downloads/WeisongZhao/SN2N/total.svg&#41;]&#40;https://github.com/WeisongZhao/SN2N/releases/tag/v0.3.2/&#41;)
-
-[//]: # ([![License]&#40;https://img.shields.io/github/license/WeisongZhao/SN2N&#41;]&#40;https://github.com/WeisongZhao/SN2N/blob/master/LICENSE/&#41;)
-
-[//]: # ([![paper]&#40;https://img.shields.io/badge/paper-nat.%20methods-black.svg&#41;]&#40;https://www.nature.com/nmeth/&#41;)
-
-[//]: # ([![releases]&#40;https://img.shields.io/badge/release-v0.3.5-FF6600.svg&#41;]&#40;https://github.com/WeisongZhao/SN2N/releases/tag/v0.3.5/&#41;)
-
-[//]: # (<br>)
-
-[//]: # ()
-[//]: # ([![Twitter]&#40;https://img.shields.io/twitter/follow/QuLiying?label=liying&#41;]&#40;https://twitter.com/QuLiying&#41;)
-
-[//]: # ([![Twitter]&#40;https://img.shields.io/twitter/follow/weisong_zhao?label=weisong&#41;]&#40;https://twitter.com/weisong_zhao&#41;)
-
-[//]: # ([![GitHub stars]&#40;https://img.shields.io/github/stars/WeisongZhao/SN2N?style=social&#41;]&#40;https://github.com/WeisongZhao/SN2N/&#41; )
-
-
 
 <p>
 <h1 align="center">SelfMirror</h1>

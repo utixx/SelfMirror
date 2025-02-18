@@ -31,7 +31,6 @@ interval in volumetric imaging is sufficiently small, the similarity of neighbor
 of the spatial structure becomes apparent. Such similarity can be used to train our proposed
 network to revive the signals and suppress the noise accurately. The denoising performance of
 SelfMirror exhibits remarkable robustness and fidelity even in extremely low SNR conditions.
-
 <br>
 
 ##  Installation

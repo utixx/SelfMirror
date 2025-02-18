@@ -8,14 +8,18 @@
 </p>
 
 
-This repository is for our developed SelfMirror, and it will be in continued development.
 
 
 
+<p>
 <img src='./img/main.gif' align="center" width=400>
+<!-- <br><br><br> -->
+This repository is for our developed SelfMirror, and it will be in continued development.
+</p>
+
 <!-- </p> -->
 
-<!-- <br><br><br> -->
+
 
 <div align="center">
 

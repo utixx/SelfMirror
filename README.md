@@ -10,6 +10,7 @@
 
 This repository is for our developed SelfMirror, and it will be in continued development.
 
+<img src="images/schematic.png" width="400" align="right">
 <br><br><br>
 
 <div align="center">

@@ -7,20 +7,6 @@
 [//]: # (<h6 align="right">v0.3.5</h6>)
 </p>
 
-
-
-
-
-<p>
-<img src='./img/main.gif' align="center" width=400>
-<!-- <br><br><br> -->
-This repository is for our developed SelfMirror, and it will be in continued development.
-</p>
-
-<!-- </p> -->
-
-
-
 <div align="center">
 
 [**Introduction**](#-Introduction) **|**[**Installation**](#-Installation) **|** [**Dataset**](#-Dataset) **|**[**Training**](#-Training) **|**[**Inference**](#-Inference) **|**[**Models**](#-Models)
@@ -30,6 +16,12 @@ This repository is for our developed SelfMirror, and it will be in continued dev
 ---
 
 ## Introduction 
+
+<p>
+<img src='./img/main.gif' align="left" width=190>
+</p>
+<br>
+
 
 Volumetric imaging is increasingly in demand for its precision in statistically
 visualizing and analyzing the intricacies of biological phenomena. To visualize the intricate
@@ -42,6 +34,9 @@ interval in volumetric imaging is sufficiently small, the similarity of neighbor
 of the spatial structure becomes apparent. Such similarity can be used to train our proposed
 network to revive the signals and suppress the noise accurately. The denoising performance of
 SelfMirror exhibits remarkable robustness and fidelity even in extremely low SNR conditions.
+
+<br><br><br>
+
 
 ##  Installation
 

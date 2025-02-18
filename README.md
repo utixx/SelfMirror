@@ -34,8 +34,7 @@ of the spatial structure becomes apparent. Such similarity can be used to train 
 network to revive the signals and suppress the noise accurately. The denoising performance of
 SelfMirror exhibits remarkable robustness and fidelity even in extremely low SNR conditions.
 
-<br><br><br>
-
+<br>
 
 ##  Installation
 

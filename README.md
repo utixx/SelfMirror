@@ -20,8 +20,7 @@
 <p>
 <img src='./img/main.gif' align="left" width=350>
 </p>
-<br>
-
+<!-- <br> -->
 
 Volumetric imaging is increasingly in demand for its precision in statistically
 visualizing and analyzing the intricacies of biological phenomena. To visualize the intricate

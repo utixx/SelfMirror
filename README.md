@@ -3,19 +3,17 @@
 <h1 align="center">SelfMirror</h1>
 <h5 align="center">Self-Supervised Denoising for Enhanced Volumetric Reconstruction and Signal
    Interpretation in Two-photon Microscopy.</h5>
-
-[//]: # (<h6 align="right">v0.3.5</h6>)
 </p>
 
 <div align="center">
 
-[**Introduction**](# Introduction) **|**[**Installation**](#-Installation) **|** [**Dataset**](#-Dataset) **|**[**Training**](#-Training) **|**[**Inference**](#-Inference) **|**[**Models**](#-Models)
+[**Introduction**](#-Introduction) **|**[**Installation**](#-Installation) **|** [**Dataset**](#-Dataset) **|**[**Training**](#-Training) **|**[**Inference**](#-Inference) **|**[**Models**](#-Models)
 
 </div>
 
 ---
 
-## Introduction 
+##Introduction 
 
 <p>
 <img src='./img/main.gif' align="left" width=350>

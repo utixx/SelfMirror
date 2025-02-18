@@ -10,12 +10,12 @@
 
 This repository is for our developed SelfMirror, and it will be in continued development.
 
-<br>
+
 
 <p>
 <img src='./img/main.gif' align="center" width=400>
 </p>
-<br>
+
 <!-- <br><br><br> -->
 
 <div align="center">

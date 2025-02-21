@@ -103,7 +103,7 @@ see code comments for all the details
 
 ##  Models
 
-We have provided 7 generalized pre-trained models for specific tasks and stored them in the ```SelfMirror/pth``` path.  
+We have provided 6 generalized pre-trained models for specific tasks and stored them in the ```SelfMirror/pth``` path.  
 
 | No. | Data                                            | Microscopy system | 
 |:---:|-------------------------------------------------|:-----------------:| 
@@ -112,8 +112,7 @@ We have provided 7 generalized pre-trained models for specific tasks and stored 
 |  3  | Neuron populations express EGFP                 |        TPM        | 
 |  4  | Two-photon volumetric imaging of dendrites      |        TPM        |  
 |  5  | Volumetric structural imaging of Penicillium.   |     Confocal      | 
-|  6  | thoracoabdominal computed tomography of humans. |        CT         |
-|  7  | Neuron 3D electron microscopy of mouse cortex.  |       3D-EM       |
+|  6  | Neuron 3D electron microscopy of mouse cortex.  |       3D-EM       |
 
 
 

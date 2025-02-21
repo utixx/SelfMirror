@@ -39,7 +39,7 @@ SelfMirror exhibits remarkable robustness and fidelity even in extremely low SNR
   - Python = 3.12.8, Pytorch = 2.5.1 (`Win 11`, `64 GB RAM`, `NVIDIA RTX 3090 24 GB`, `CUDA 12.4`)
 
 ### Dependencies 
-  - Python >= 3.8
+  - Python >= 3.9
   - PyTorch >= 2.0
     
 ### Instruction

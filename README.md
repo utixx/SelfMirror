@@ -85,11 +85,11 @@ The parameter can be changed as required in **new_train.py.**
 see code comments for all the details
 
 ##  Inference
-set your data path and put your data into  ```./datasets/dataset_name/dataset_name.tif``` 
+set your data path and put your data into  ```./datasets/data_name/data_name.tif``` 
 
 Run the new_train.py to start training.
    ```bash
-    > python new_test.py
+    > python new_test.py --datasets_store_dir ./datasets --dataset_name "replace to ur 'data_name'" --denoise_models "replace to ur trained model file'"
   ```
 The parameter can be changed as required in **new_test.py.**
 

@@ -72,7 +72,7 @@ set your data path and put your data into  ```./datasets/data_name/data_name.tif
 
 Run the new_train.py to start training.
    ```bash
-    > python new_train.py
+    > python new_train.py --datasets_store_dir ./datasets --dataset_name ```replace to ur data_name```
   ```
 The parameter can be changed as required in **new_train.py.**
 

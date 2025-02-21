@@ -107,8 +107,8 @@ We have provided 7 generalized pre-trained models for specific tasks and stored 
 
 | No. | Data                                            | Microscopy system | 
 |:---:|-------------------------------------------------|:-----------------:| 
-|  1  | Simulated data of TPM with added P4 noise       |       NAOMi       |  
-|  2  | Simulated data of TPM with added P16 noise      |       NAOMi       |  
+|  1  | Simulated data of TPM with added P8 noise       |       NAOMi       |  
+|  2  | Simulated data of TPM with added P32 noise      |       NAOMi       |  
 |  3  | Neuron populations express EGFP                 |        TPM        | 
 |  4  | Two-photon volumetric imaging of dendrites      |        TPM        |  
 |  5  | Volumetric structural imaging of Penicillium.   |     Confocal      | 
